@@ -1,0 +1,5 @@
+{
+  "operation": "generate",
+  "prompt": "A red ceramic mug on a wooden table by a window.",
+  "output_path": "out/mug-v01.png"
+}
