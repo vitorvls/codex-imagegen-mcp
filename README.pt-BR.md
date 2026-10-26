@@ -6,6 +6,8 @@ Servidor MCP local que dá ao Claude Code (ou a qualquer cliente MCP) a ferramen
 
 Vem junto uma **skill** do Claude Code que ensina o agente a usar bem a ferramenta para qualquer tipo de imagem, sem impor estilo: verificação da instalação, como a imagem base e as referências se comportam, como escrever o prompt e fluxos opcionais em etapas (finalizar uma base crua, remover elementos, isolar elementos em fundo chapado).
 
+> **Primeira vez?** Leia o [guia para iniciantes em PDF](docs/guia-codex-imagegen-pt-BR.pdf): o que é a ferramenta, a instalação passo a passo, o uso no dia a dia e como ela foi usada no jogo Primeval.
+
 ```
 Claude Code → generate_image (este MCP, stdio) → backend
                                                  ├─ codex      (padrão)    codex exec + seu login do ChatGPT
